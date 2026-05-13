@@ -46,4 +46,6 @@
 
 - Anotações de aula 
 
-#### *objeto*
+#### *objeto.js*
+
+- Representação de um objeto em JavaScript
